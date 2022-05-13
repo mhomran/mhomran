@@ -2,6 +2,7 @@
 <h3 align="center">A passionate embedded software engineer from Egypt</h3>
 
 - 🌱 I’m currently learning **how to use c++ with embedded systems.**
+- 🌱 I’m currently working on making **mini ANSI C compiler.**
 
 - 📫 How to reach me **mohamed_hassanin_omran@yahoo.com**
 
