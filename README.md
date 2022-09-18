@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hassanin</h1>
 <h3 align="center">A passionate embedded software engineer from Egypt</h3>
 
-- 🌱 I’m currently learning **how to use c++ with embedded systems.**
+- 🌱 I’m currently learning **Embedded Linux**
 
 - 📫 How to reach me **mohamed_hassanin_omran@yahoo.com**
 
